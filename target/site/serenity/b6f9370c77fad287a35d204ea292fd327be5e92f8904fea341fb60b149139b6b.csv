@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test","create token","SUCCESS","2023-01-04T21:00:10.729Z[Europe/London]","0.0","5.47"
+"CRUD test","Get All booking Id","SUCCESS","2023-01-04T21:00:16.229Z[Europe/London]","0.0","0.97"
+"CRUD test","Create booking ","SUCCESS","2023-01-04T21:00:17.206Z[Europe/London]","0.0","0.71"
+"CRUD test","Get user by single Id","SUCCESS","2023-01-04T21:00:17.917Z[Europe/London]","0.0","0.67"
+"CRUD test","update booking ","SUCCESS","2023-01-04T21:00:18.584Z[Europe/London]","0.0","1.19"
+"CRUD test","Delete booking","SUCCESS","2023-01-04T21:00:19.775Z[Europe/London]","0.0","1.1"
